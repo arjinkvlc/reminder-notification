@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629278894112",
+    "project_id": "reminder-popup",
+    "storage_bucket": "reminder-popup.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629278894112:android:f76f73101d912b0893b445",
+        "android_client_info": {
+          "package_name": "com.example.reminderpopup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSf19AWCcMRgOXO-p_njESn_4vzJg1YcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

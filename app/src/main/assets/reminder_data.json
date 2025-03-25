@@ -1,0 +1,9 @@
+{
+  "title": "Salla Kazan Hatırlatması",
+  "message": "Salla Kazan için anımsatıcı eklemek ister misiniz?",
+  "isShakeAndWinUsed": false,
+  "day": "TUESDAY",
+  "startHour": 9,
+  "endHour": 10,
+  "repeatType": "WEEKLY"
+}
